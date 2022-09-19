@@ -1,0 +1,19 @@
+{
+  "name": "andcoder-landing",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosandf/andcoder-landing.git"
+  },
+  "author": "Carlos Florez <carlos.andres.ff2912@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosandf/andcoder-landing/issues"
+  },
+  "homepage": "https://github.com/carlosandf/andcoder-landing#readme"
+}
